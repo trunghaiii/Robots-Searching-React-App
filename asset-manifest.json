@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Robots-Searching-React-App/static/css/main.dbb58060.css",
+    "main.js": "/Robots-Searching-React-App/static/js/main.f1ecaa2d.js",
+    "static/js/787.24a8b593.chunk.js": "/Robots-Searching-React-App/static/js/787.24a8b593.chunk.js",
+    "index.html": "/Robots-Searching-React-App/index.html",
+    "main.dbb58060.css.map": "/Robots-Searching-React-App/static/css/main.dbb58060.css.map",
+    "main.f1ecaa2d.js.map": "/Robots-Searching-React-App/static/js/main.f1ecaa2d.js.map",
+    "787.24a8b593.chunk.js.map": "/Robots-Searching-React-App/static/js/787.24a8b593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb58060.css",
+    "static/js/main.f1ecaa2d.js"
+  ]
+}
